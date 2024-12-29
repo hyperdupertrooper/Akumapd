@@ -13,6 +13,6 @@
 ]]--
 
 local rah = {
-    Normal = loadstring(game:HttpGet("http://akumazz.ru/Normal.lua"))(),
-    Good = loadstring(game:HttpGet("http://akumazz.ru/Good.lua"))(),
+    Normal = loadstring(game:HttpGet("https://raw.githubusercontent.com/hyperdupertrooper/wuhu/refs/heads/main/Normal.lua"))(),
+    Good = loadstring(game:HttpGet("https://raw.githubusercontent.com/hyperdupertrooper/wuhu/refs/heads/main/Good.lua"))(),
 }
